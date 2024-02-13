@@ -38,3 +38,21 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.box {
+    width: 30%; /* Adjust as needed */
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+.box img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
