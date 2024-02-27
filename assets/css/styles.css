@@ -45,10 +45,13 @@ footer {
   }
 
 .box {
+    display: flex;
     width: 30%; /* Adjust as needed */
     border: 1px solid #ccc;
     padding: 10px;
     text-align: center;
+    align-items: center;
+    flex-flow: column;
   }
   
 .box img {
