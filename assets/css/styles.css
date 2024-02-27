@@ -67,3 +67,26 @@ footer {
 .employtext {
     font-size: xx-large;
 }
+
+.jobspec {
+    display: flex;
+    width: 325px;
+    height: 325px;
+}
+
+.employ {
+    display: flex;
+    width: 325px;
+    height: 325px;
+}
+
+.trainessimg{
+    display: flex;
+    height: 325px;
+    width: 325px;
+    left: 1000px;
+}
+
+.Hometext{
+    font-size: xx-large;
+}
